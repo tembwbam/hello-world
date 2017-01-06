@@ -1,2 +1,3 @@
 # hello-world
-I don't even know what I'm doing yet, but the tutorial says to add a description.
+I don't even know what I'm doing yet, but the tutorial says to add a description...
+...but I think I'm okay for now. What's the learning curve like on this thing? Should I have started learning a language before jumping on GitHub cause it almost seems like I'll be teaching myself two new languages at once. So far seems pretty self-explanatory, just understanding what all the jargon refers to.
